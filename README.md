@@ -99,5 +99,5 @@ nmap -A 192.168.1.10 -oN ssh_scan.txt
 
 ## 🎓 Credits
 
-Created by [catgamer19](https://github.com/catgamer19)  
-For LAN-only simulations and ethical hacking education
+Created by [Mr-A-Hacker](https://github.com/Mr-A-Hacker)  
+For LAN-only simulations, forensic overlays, and ethical hacking education
