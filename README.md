@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> A beginner Nmap guide. **For users:** it explains what network scanning results mean and how administrators can use authorized scans to understand their own systems.
+>
+> **Safety:** Use security, camera, and network features only on systems and networks you own or are explicitly authorized to test.
+
+---
+
 # 🛡️ How to Use Nmap for Ethical SSH Scanning
 
 > ⚠️ **Educational Use Only**  
